@@ -1,0 +1,7 @@
+[
+    {"description": "Développer une application mobile", "deadline": "2023-11-15", "done": false},
+    {"description": "Configurer un serveur web", "deadline": "2023-10-31", "done": true},
+    {"description": "Apprendre un nouveau langage de programmation", "deadline": "2023-11-05", "done": false},
+    {"description": "Débugger un problème de code", "deadline": "2023-11-10", "done": false},
+    {"description": "Installer un système d'exploitation", "deadline": "2023-11-30", "done": true}
+]
